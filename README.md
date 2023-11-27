@@ -1,3 +1,11 @@
+<!--
+# Desafio de Projeto sobre Git/GitHub
+Como primeiro Desafio de Projeto Git/GitHub, considerei utilizar o meu nome de usuário do GitHub. O Repositório com o nome de usuário do GitHub é especial, pois o arquivo Mark Down padrão "README.MD" é exibido na página principal do Perfil de usuário do GitHub.
+
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+-->
+
 # Perfil de Thomé no GitHub
 
 <p align="center"> 
@@ -44,3 +52,25 @@ Here are some ideas to get you started:
 [📫] How to reach me ?  On    :  https://twitter.com/TamingTechs<br>
 [😄] Pronouns                 :  he/him.<br>
 <!-- [⚡] Fun fact                 :  ...<br> -->
+
+
+### 📊 Statistics on GitHub
+
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamingTechs&show_icons=true&theme=dracula)
+
+### 📌 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TamingTechs&repo=IMCK)](https://github.com/TamingTechs/IMCK)
+
+<!--
+### 🚀 Most Used Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamingTechs&layout=compact)
+-->
+
+<h3 align="left">Redes Sociais:</h3>
+<p align="left">
+	<a href="https://twitter.com/TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taming Techs" height="30" width="40" /></a>
+	<a href="https://www.youtube.com/@TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Taming Techs" height="30" width="40" /></a>
+	<a href="https://discord.com/users/1106618682098065504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thomé - Taming Techs" height="30" width="40" /></a>
+</p>
