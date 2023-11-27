@@ -25,9 +25,15 @@ Aqui algumas ideias para você iniciar:
 [👯] Busco colaborar na área de TI em uma vaga de emprego, como trabalhador BACKEND.<br>
 [🤔] Ajuda com as Traduções Localizadas para a IMCK, são muito bem vindas.<br>
 [💬] Pergunte-me sobre fatos, jamais sobre a vida pessoal das pessoas.<br>
-[📫] Como chegar até mim ?  Em       :  https://twitter.com/TamingTechs<br>
 [😄] Pronomes                        :  ele/dele.<br>
-<!-- [⚡] Acontecimento engraçado         :  ...<br> -->
+[📫] Como chegar até mim ?  Pelas seguintes Redes Sociais :<br>
+<p align="left">
+	<a href="https://twitter.com/TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taming Techs" height="30" width="40" /></a>
+	<a href="https://www.youtube.com/@TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Taming Techs" height="30" width="40" /></a>
+	<a href="https://discord.com/users/1106618682098065504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thomé - Taming Techs" height="30" width="40" /></a>
+</p>
+<!-- [⚡] Acontecimento engraçado         :  ... -->
+
 
 <br><br>
 # Thomé's - GitHub Profile
@@ -49,8 +55,13 @@ Here are some ideas to get you started:
 [👯] I’m looking to collaborate in the IT area in a job opening, as BACKEND worker.<br>
 [🤔] I’m looking for help with Locale Tranlations.<br>
 [💬] Ask me about facts, never about people's personal lives.<br>
-[📫] How to reach me ?  On    :  https://twitter.com/TamingTechs<br>
 [😄] Pronouns                 :  he/him.<br>
+[📫] How to reach me ?  Through the following Social Networks :<br>
+<p align="left">
+	<a href="https://twitter.com/TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taming Techs" height="30" width="40" /></a>
+	<a href="https://www.youtube.com/@TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Taming Techs" height="30" width="40" /></a>
+	<a href="https://discord.com/users/1106618682098065504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thomé - Taming Techs" height="30" width="40" /></a>
+</p>
 <!-- [⚡] Fun fact                 :  ...<br> -->
 
 
@@ -68,10 +79,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamingTechs&layout=compact)
 -->
-
-<h3 align="left"> Social Networks :</h3>
-<p align="left">
-	<a href="https://twitter.com/TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taming Techs" height="30" width="40" /></a>
-	<a href="https://www.youtube.com/@TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Taming Techs" height="30" width="40" /></a>
-	<a href="https://discord.com/users/1106618682098065504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thomé - Taming Techs" height="30" width="40" /></a>
-</p>
