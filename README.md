@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <!-- [⚡] Fun fact                 :  ...<br> -->
 
 
+<br><br>
 ### 📊 Statistics on GitHub
 
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamingTechs&show_icons=true&theme=dracula)
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamingTechs&layout=compact)
 -->
 
-<h3 align="left">Redes Sociais:</h3>
+<h3 align="left"> Social Networks :</h3>
 <p align="left">
 	<a href="https://twitter.com/TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taming Techs" height="30" width="40" /></a>
 	<a href="https://www.youtube.com/@TamingTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Taming Techs" height="30" width="40" /></a>
